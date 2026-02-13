@@ -1,0 +1,10 @@
+PyQt6
+PyQt6-WebEngine
+ollama
+SpeechRecognition
+pyttsx3
+sounddevice
+numpy
+openwakeword
+onnxruntime
+PyAudio

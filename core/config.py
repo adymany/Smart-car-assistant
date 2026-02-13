@@ -1,0 +1,4 @@
+
+import os
+
+OLLAMA_MODEL = "gemma3:1b" 
